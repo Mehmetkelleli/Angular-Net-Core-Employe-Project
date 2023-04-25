@@ -1,0 +1,17 @@
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Infuructures.deps.json
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Infuructures.pdb
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\refint\Backend.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.pdb
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\ref\Backend.Infuructures.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Application.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Application.pdb
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\bin\Debug\net6.0\Backend.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Infuructures\obj\Debug\net6.0\Backend.Infuructures.csproj.CopyComplete

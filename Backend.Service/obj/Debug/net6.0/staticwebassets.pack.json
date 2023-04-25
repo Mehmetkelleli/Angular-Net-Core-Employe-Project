@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\users\\638119786051228608ekran-alintisi.jpg",
+      "PackagePath": "staticwebassets\\users\\638119786051228608ekran-alintisi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\users\\638121307811355020ekran-goruntusu-(33).jpg",
+      "PackagePath": "staticwebassets\\users\\638121307811355020ekran-goruntusu-(33).jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Backend.Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Backend.Service.props",
+      "PackagePath": "build\\Backend.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Backend.Service.props",
+      "PackagePath": "buildMultiTargeting\\Backend.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Backend.Service.props",
+      "PackagePath": "buildTransitive\\Backend.Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

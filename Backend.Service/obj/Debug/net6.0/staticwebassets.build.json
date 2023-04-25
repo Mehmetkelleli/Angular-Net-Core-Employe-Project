@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "bNHdBkEqaU9Bb1cQAU3u0kFJjwZGgMHzwITVTCBomaA=",
+  "Source": "Backend.Service",
+  "BasePath": "_content/Backend.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Backend.Service\\wwwroot",
+      "Source": "Backend.Service",
+      "ContentRoot": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\",
+      "BasePath": "_content/Backend.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\users\\638119786051228608ekran-alintisi.jpg",
+      "SourceId": "Backend.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\",
+      "BasePath": "_content/Backend.Service",
+      "RelativePath": "users/638119786051228608ekran-alintisi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users\\638119786051228608ekran-alintisi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\users\\638121307811355020ekran-goruntusu-(33).jpg",
+      "SourceId": "Backend.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mehmet Kelleli\\Desktop\\NeCoreAngularEmployess\\Backend\\Backend.Service\\wwwroot\\",
+      "BasePath": "_content/Backend.Service",
+      "RelativePath": "users/638121307811355020ekran-goruntusu-(33).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users\\638121307811355020ekran-goruntusu-(33).jpg"
+    }
+  ]
+}

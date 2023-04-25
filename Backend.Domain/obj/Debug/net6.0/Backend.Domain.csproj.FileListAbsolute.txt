@@ -1,0 +1,12 @@
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\bin\Debug\net6.0\Backend.Domain.deps.json
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\bin\Debug\net6.0\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\bin\Debug\net6.0\Backend.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\refint\Backend.Domain.dll
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\Backend.Domain.pdb
+C:\Users\Mehmet Kelleli\Desktop\NeCoreAngularEmployess\Backend\Backend.Domain\obj\Debug\net6.0\ref\Backend.Domain.dll
